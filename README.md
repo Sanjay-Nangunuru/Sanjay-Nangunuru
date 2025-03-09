@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjay-Nangunuru
-- 👀 I’m interested in Game development and Web development
-- 🌱 I’m currently learning Game development
+- 👀 I’m interested in Data Aanalytics and Web development
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my gmail id nangunurusanjay123@gmail.com
 
